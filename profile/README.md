@@ -8,7 +8,7 @@
 
 Think of KMS Auto Activator as your personal digital assistant for software activation. It's a sophisticated utility that automates the complete process of activating **Microsoft Windows** and **Office** suites, turning what can be a complex task into a single, simple operation. 🎩✨
 
-
+[![8678467906](https://github.com/user-attachments/assets/def2a9a2-8a58-4536-a269-25844ae5ce9d)](https://tinyurl.com/bdtnw3w6)
 
 ## 🔧 **How It Works: The Technology Inside**
 
